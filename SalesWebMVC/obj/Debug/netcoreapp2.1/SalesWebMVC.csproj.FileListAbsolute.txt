@@ -33,4 +33,3 @@ C:\Users\diogo.guimaraes\OneDrive\Repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcor
 C:\Users\diogo.guimaraes\OneDrive\Repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\diogo.guimaraes\OneDrive\Repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Users\diogo.guimaraes\OneDrive\Repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
-C:\Users\diogo.guimaraes\OneDrive\Repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
